@@ -1,4 +1,4 @@
-# Testing github 2.4.26
+# Testing github new local directory 2.4.26
 
 import os, sys
 import glob
